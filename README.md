@@ -1,1 +1,1 @@
-# google-homepage
+This is a project that demonstrates what I have learned in HTML/CSS techniques.
